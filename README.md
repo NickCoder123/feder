@@ -1,10 +1,10 @@
 # Quill - ChatPDF Clone
 
 [Josh tried coding](https://youtu.be/ucX2zXAZ1I0?si=_G_xwEx6wuVORj1S)
-[Production URL]()
+[Production URL](https://feder.vercel.app)
 
 - [x] Project init
-- [ ] Make it deploy
+- [x] Make it deploy
 - [ ] Creating the landing page
 - [ ] Making the Landing Page Look Awesome
 - [ ] Creating the Navbar
