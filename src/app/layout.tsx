@@ -3,6 +3,7 @@ import { Figtree } from "next/font/google";
 
 import "~/styles/globals.css";
 import { cn } from "~/lib/utils";
+import { Navbar } from "~/components/navbar";
 
 const font = Figtree({ subsets: ["latin"] });
 
@@ -24,6 +25,7 @@ export default function RootLayout({
           font.className
         )}
       >
+        <Navbar />
         {children}
       </body>
     </html>
