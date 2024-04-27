@@ -6,7 +6,7 @@
 - [x] Project init
 - [x] Make it deploy
 - [x] Creating the landing page
-- [ ] Making the Landing Page Look Awesome
+- [x] Making the Landing Page Look Awesome
 - [ ] Creating the Navbar
 - [ ] Authentication (with Kinde)
 - [ ] Creating our Dashboard
