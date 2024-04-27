@@ -7,8 +7,8 @@
 - [x] Make it deploy
 - [x] Creating the landing page
 - [x] Making the Landing Page Look Awesome
-- [ ] Creating the Navbar
-- [ ] Authentication (with Kinde)
+- [x] Creating the Navbar
+- [x] Authentication (with Kinde)
 - [ ] Creating our Dashboard
 - [ ] Syncing our Database
 - [ ] tRPC setup
