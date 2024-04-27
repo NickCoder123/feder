@@ -1,4 +1,4 @@
-# Quill - ChatPDF Clone
+# Feder - ChatPDF Clone
 
 [Josh tried coding](https://youtu.be/ucX2zXAZ1I0?si=_G_xwEx6wuVORj1S)
 [Production URL](https://feder.vercel.app)
